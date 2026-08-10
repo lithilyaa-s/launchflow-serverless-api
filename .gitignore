@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# AWS SAM
+.aws-sam/
+
+# Coverage
+coverage/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

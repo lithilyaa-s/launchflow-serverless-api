@@ -1,0 +1,24 @@
+{
+  "name": "launchflow-serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1693.0",
+    "uuid": "^14.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^10.8.1",
+    "jest": "^30.4.2"
+  }
+}
